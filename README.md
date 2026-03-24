@@ -1,6 +1,4 @@
 # Order_Level-Revenue-Analysis
-# What Orders Reveal
-
 This project explores a pizza sales dataset using SQL to understand how orders translate into revenue, demand patterns, and product performance.
 
 The goal is to move beyond querying data and focus on **what these patterns mean for decision-making**.
